@@ -1,0 +1,10 @@
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\bin\Debug\Ejercicio_Numero11.exe.config
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\bin\Debug\Ejercicio_Numero11.exe
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\bin\Debug\Ejercicio_Numero11.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\bin\Debug\Biblioteca.dll
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\bin\Debug\Biblioteca.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\obj\Debug\Ejercicio_Numero11.csprojAssemblyReference.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\obj\Debug\Ejercicio_Numero11.csproj.CoreCompileInputs.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\obj\Debug\Ejercicio_Numero11.csproj.CopyComplete
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\obj\Debug\Ejercicio_Numero11.exe
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Ejercicio_Numero11\obj\Debug\Ejercicio_Numero11.pdb

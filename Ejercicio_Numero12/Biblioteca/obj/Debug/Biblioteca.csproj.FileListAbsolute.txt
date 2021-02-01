@@ -1,0 +1,5 @@
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Biblioteca\bin\Debug\Biblioteca.dll
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Biblioteca\obj\Debug\Biblioteca.dll
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Biblioteca\obj\Debug\Biblioteca.pdb

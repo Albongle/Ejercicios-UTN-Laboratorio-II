@@ -1,0 +1,10 @@
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\bin\Debug\Ejercicio_Numero12.exe.config
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\bin\Debug\Ejercicio_Numero12.exe
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\bin\Debug\Ejercicio_Numero12.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\obj\Debug\Ejercicio_Numero12.csproj.CoreCompileInputs.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\obj\Debug\Ejercicio_Numero12.exe
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\obj\Debug\Ejercicio_Numero12.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\bin\Debug\Biblioteca.dll
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\bin\Debug\Biblioteca.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\obj\Debug\Ejercicio_Numero12.csprojAssemblyReference.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero12\Ejercicio_Numero12\obj\Debug\Ejercicio_Numero12.csproj.CopyComplete

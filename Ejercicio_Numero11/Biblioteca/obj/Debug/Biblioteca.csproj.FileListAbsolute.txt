@@ -1,0 +1,6 @@
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Biblioteca\bin\Debug\Biblioteca.dll
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Biblioteca\obj\Debug\Biblioteca.dll
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero11\Biblioteca\obj\Debug\Biblioteca.pdb

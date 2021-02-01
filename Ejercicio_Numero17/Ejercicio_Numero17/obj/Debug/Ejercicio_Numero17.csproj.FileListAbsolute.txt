@@ -1,0 +1,10 @@
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Ejercicio_Numero17.exe.config
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Ejercicio_Numero17.exe
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Ejercicio_Numero17.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Biblioteca.dll
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Biblioteca.pdb
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csprojAssemblyReference.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.CoreCompileInputs.cache
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.CopyComplete
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.exe
+F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.pdb
