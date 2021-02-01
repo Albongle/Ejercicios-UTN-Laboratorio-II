@@ -1,0 +1,10 @@
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\bin\Debug\Ejercicio_Numero20.exe.config
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\bin\Debug\Ejercicio_Numero20.exe
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\bin\Debug\Ejercicio_Numero20.pdb
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\bin\Debug\Billetes.dll
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\bin\Debug\Billetes.pdb
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\obj\Debug\Ejercicio_Numero20.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\obj\Debug\Ejercicio_Numero20.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\obj\Debug\Ejercicio_Numero20.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\obj\Debug\Ejercicio_Numero20.exe
+F:\Facultad\5-Ayudantia\Ejercicios\Ejercicio_Numero20\Ejercicio_Numero20\obj\Debug\Ejercicio_Numero20.pdb
