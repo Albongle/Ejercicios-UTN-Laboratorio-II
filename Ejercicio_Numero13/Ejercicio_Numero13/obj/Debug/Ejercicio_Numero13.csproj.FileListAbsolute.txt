@@ -1,0 +1,10 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\bin\Debug\Ejercicio_Numero13.exe.config
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\bin\Debug\Ejercicio_Numero13.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\bin\Debug\Ejercicio_Numero13.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\bin\Debug\Biblioteca.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\bin\Debug\Biblioteca.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\obj\Debug\Ejercicio_Numero13.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\obj\Debug\Ejercicio_Numero13.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\obj\Debug\Ejercicio_Numero13.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\obj\Debug\Ejercicio_Numero13.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Ejercicio_Numero13\obj\Debug\Ejercicio_Numero13.pdb

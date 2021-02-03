@@ -1,0 +1,6 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Biblioteca\bin\Debug\Biblioteca.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Biblioteca\obj\Debug\Biblioteca.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero13\Biblioteca\obj\Debug\Biblioteca.pdb
