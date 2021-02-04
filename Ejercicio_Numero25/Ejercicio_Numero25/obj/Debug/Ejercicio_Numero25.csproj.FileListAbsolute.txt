@@ -1,0 +1,13 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\bin\Debug\Ejercicio_Numero25.exe.config
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\bin\Debug\Ejercicio_Numero25.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\bin\Debug\Ejercicio_Numero25.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\bin\Debug\Biblioteca.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\bin\Debug\Biblioteca.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.FrmEjercicioNumero25.resources
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero25\Ejercicio_Numero25\obj\Debug\Ejercicio_Numero25.pdb
