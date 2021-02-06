@@ -40,7 +40,7 @@ namespace Biblioteca
         }
         public string MostrarDatos()
         {
-            return $"El auto numero: {base.Numero}" +
+            return $"La moto numero: {base.Numero}" +
                 $"\nEscuderia: {base.Escuderia}" +
                 $"\nEn competencia: {base.EnCompetencia}" +
                 $"\nCantidad de combustible: {base.Combustible}" +

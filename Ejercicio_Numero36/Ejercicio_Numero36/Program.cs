@@ -21,7 +21,7 @@ namespace Ejercicio_Numero36
         static void Main(string[] args)
         {
             Random azar = new Random();
-            Competencia formulaUno = new Competencia(10, 5, Competencia.ETipoCompetencia.F1);
+            Competencia formulaUno = new Competencia(10, 20, Competencia.ETipoCompetencia.F1);
             AutoF1[] autos = new AutoF1[10];
 
             for (int i = 0; i < autos.Length; i++)
@@ -35,6 +35,17 @@ namespace Ejercicio_Numero36
                 {
                     Console.WriteLine("No se agrego ya que la competencia esta completa: {0}", autos[i].MostrarDatos());
                 }
+            }
+
+            MotoCross motoCross = new MotoCross(5, "Motos");
+
+            if(formulaUno + motoCross)
+            {
+                Console.WriteLine("Se agrego la moto");
+            }
+            else
+            {
+                Console.WriteLine("no se puede agregar la moto");
             }
 
             Console.WriteLine();

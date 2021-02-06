@@ -11,15 +11,15 @@ namespace Biblioteca
         private short cantidadCompetidores;
         private short cantidadVueltas;
         private List<VehiculoDeCarrera> competidores;
-        public enum ETipoCompetencia {F1,MotoCross};
+        public enum ETipoCompetencia { F1, MotoCross };
         private ETipoCompetencia tipo;
 
         private Competencia()
         {
             competidores = new List<VehiculoDeCarrera>();
         }
-        public Competencia (short cantidadVueltas, short cantidadCompetidores, ETipoCompetencia tipo)
-            :this()
+        public Competencia(short cantidadVueltas, short cantidadCompetidores, ETipoCompetencia tipo)
+            : this()
         {
             this.cantidadVueltas = cantidadVueltas;
             this.cantidadCompetidores = cantidadCompetidores;
@@ -49,7 +49,7 @@ namespace Biblioteca
             }
         }
 
-        public VehiculoDeCarrera this [int i]
+        public VehiculoDeCarrera this[int i]
         {
             get
             {
@@ -71,19 +71,28 @@ namespace Biblioteca
         //Generamos las sobrecarga de operadores para agregar, quitar competidores y de comparacion
 
 
-        public static bool operator == (Competencia c, VehiculoDeCarrera v)
+        public static bool operator ==(Competencia c, VehiculoDeCarrera v)
         {
             bool returnAux = false;
-            if(c.competidores.Count>0 && (c.Tipo == Competencia.ETipoCompetencia.F1 && v.GetType()== typeof(AutoF1)) || (c.Tipo == Competencia.ETipoCompetencia.MotoCross && v.GetType() == typeof(MotoCross)))
+            //Evaluamos si el vehiculo a comparar con la competencia, es del mismo tipo y por otro lado evaluamos que este vehiculo se encuentre en la competencia.
+            //Rotornamos true si el vehiculo pertenece a la competencia o bien si el vehiculo difiere con el tipo de competencia
+            if((c.Tipo == Competencia.ETipoCompetencia.F1 && v.GetType() == typeof(AutoF1)) || (c.Tipo == Competencia.ETipoCompetencia.MotoCross && v.GetType() == typeof(MotoCross)))
             {
-                foreach (VehiculoDeCarrera vehiculo in c.competidores)
+                if (c.competidores.Count > 0)
                 {
-                    if(vehiculo == v)
+                    foreach (VehiculoDeCarrera vehiculo in c.competidores)
                     {
-                        returnAux = true;
-                        break;
+                        if (vehiculo == v)
+                        {
+                            returnAux = true;
+                            break;
+                        }
                     }
                 }
+            }
+            else
+            {
+                returnAux = true;
             }
             //En esta sobre cargar vamos a comparar un AutoF1 con la competencia y determinar si este auto pertenece a la lista de competidores
             return returnAux;
@@ -113,7 +122,7 @@ namespace Biblioteca
         public static bool operator -(Competencia c, VehiculoDeCarrera v)
         {
             bool returnAux = false;
-            if(c==v)//Verificamos si el auto pertenece a la competencia y lo retiramos.
+            if (c == v)//Verificamos si el auto pertenece a la competencia y lo retiramos.
             {
                 c.competidores.Remove(v);
                 returnAux = true;
@@ -130,11 +139,11 @@ namespace Biblioteca
             //Imprimimos luego todos los competidores
             foreach (VehiculoDeCarrera vehiculo in this.competidores)
             {
-                if(vehiculo.GetType()==typeof(AutoF1))
+                if (vehiculo.GetType() == typeof(AutoF1))
                 {
                     stringBuilder.AppendLine(((AutoF1)vehiculo).MostrarDatos());
                 }
-                else if(vehiculo.GetType() == typeof(MotoCross))
+                else if (vehiculo.GetType() == typeof(MotoCross))
                 {
                     stringBuilder.AppendLine(((MotoCross)vehiculo).MostrarDatos());
                 }
