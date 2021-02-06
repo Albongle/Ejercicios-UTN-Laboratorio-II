@@ -1,0 +1,10 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\bin\Debug\Ejercicio_Numero30.exe.config
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\bin\Debug\Ejercicio_Numero30.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\bin\Debug\Ejercicio_Numero30.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\bin\Debug\Biblioteca.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\bin\Debug\Biblioteca.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\obj\Debug\Ejercicio_Numero30.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\obj\Debug\Ejercicio_Numero30.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\obj\Debug\Ejercicio_Numero30.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\obj\Debug\Ejercicio_Numero30.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero30\Ejercicio_Numero30\obj\Debug\Ejercicio_Numero30.pdb
