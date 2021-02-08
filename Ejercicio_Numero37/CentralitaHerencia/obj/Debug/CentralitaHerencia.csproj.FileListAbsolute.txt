@@ -1,0 +1,5 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero37\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero37\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero37\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero37\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero37\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
