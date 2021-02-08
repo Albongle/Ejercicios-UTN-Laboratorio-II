@@ -1,0 +1,15 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\bin\Debug\CentralitaFormulario.exe.config
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\bin\Debug\CentralitaFormulario.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\bin\Debug\CentralitaFormulario.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\bin\Debug\CentralitaHerencia.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\bin\Debug\CentralitaHerencia.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.FrmLlamador.resources
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.FrmMenu.resources
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero40\CentralitaFormulario\obj\Debug\CentralitaFormulario.FrmMostrar.resources
