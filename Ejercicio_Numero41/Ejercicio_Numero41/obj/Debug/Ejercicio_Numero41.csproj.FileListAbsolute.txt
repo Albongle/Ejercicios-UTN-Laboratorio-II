@@ -1,0 +1,10 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\bin\Debug\Ejercicio_Numero41.exe.config
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\bin\Debug\Ejercicio_Numero41.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\bin\Debug\Ejercicio_Numero41.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\bin\Debug\CentralitaHerencia.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\bin\Debug\CentralitaHerencia.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\obj\Debug\Ejercicio_Numero41.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\obj\Debug\Ejercicio_Numero41.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\obj\Debug\Ejercicio_Numero41.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\obj\Debug\Ejercicio_Numero41.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero41\Ejercicio_Numero41\obj\Debug\Ejercicio_Numero41.pdb
