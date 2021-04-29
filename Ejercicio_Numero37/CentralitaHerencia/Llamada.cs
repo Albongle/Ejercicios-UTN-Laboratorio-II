@@ -65,5 +65,7 @@ namespace CentralitaHerencia
             returnAux.AppendLine($"El numoer de destino de la llamadas es : {this.NroDestino}");
             return returnAux.ToString();
         }
+
+
     }
 }

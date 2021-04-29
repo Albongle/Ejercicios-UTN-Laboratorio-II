@@ -57,6 +57,7 @@ namespace Ejercicio_Numero37
                 Console.WriteLine(c.Mostrar());
 
                 Console.ReadKey();
+        
 
 */
         static void Main(string[] args)
@@ -80,7 +81,6 @@ namespace Ejercicio_Numero37
             Console.WriteLine(c.Mostrar());
             c.Llamadas.Add(l4);
             Console.WriteLine(c.Mostrar());
-
             c.OrdenarLlamadas();
             Console.WriteLine(c.Mostrar());
 

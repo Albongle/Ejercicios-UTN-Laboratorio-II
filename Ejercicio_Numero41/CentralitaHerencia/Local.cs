@@ -16,7 +16,7 @@ namespace CentralitaHerencia
         protected float costo;
 
         public Local (Llamada llamada, float costo)
-            :base (llamada.Duracion,llamada.NroDestino, llamada.NroOrigen)
+            : this(llamada.NroOrigen, llamada.Duracion, llamada.NroDestino, costo)
         {
             this.costo = costo;
         }
