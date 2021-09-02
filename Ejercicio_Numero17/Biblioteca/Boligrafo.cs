@@ -52,7 +52,7 @@ namespace Biblioteca
         /// <param name="tinta">es la cantidad de tinta</param>
         private void SetTinta(short tinta)
         {
-            short tintaAux = (short)(this.tinta + tinta);
+            int tintaAux = this.tinta + tinta;
 
             
             if(tintaAux > cantidadTintaMaxima)
