@@ -52,37 +52,25 @@ namespace Biblioteca
         /// <param name="tinta">es la cantidad de tinta</param>
         private void SetTinta(short tinta)
         {
-            //Inicialmente validamos si el dato recibido es mayor o menor que cero, para determinar si se va a gastar o cargar tinta
-            if (tinta > 0)
+            short tintaAux = (short)(this.tinta + tinta);
+
+            
+            if(tintaAux > cantidadTintaMaxima)
             {
-                //Dentro de este if vamos a recargar tinta
-                //Validamos si la tinta existente del objeto mas la recibida no es mayor a la capacidad maxima, en caso de ser mayor asignamos el tope, de lo contrario sumamos
-                if ((this.tinta + tinta) > cantidadTintaMaxima)
-                {
-                    this.tinta = cantidadTintaMaxima;
-                }
-                else
-                {
-                    this.tinta += tinta;
-                }
+                this.tinta = cantidadTintaMaxima;
             }
-            else if (tinta < 0)
+            else if (tintaAux < 0)
             {
-                //Si tinta es menor que cero es porque se va a gastar tinta
-                //validamos si el objeto tiene tinta mayor a cero como para poder gastar
-                if (this.tinta > 0)
-                {
-                    if ((this.tinta + tinta) < 0) //Si el descuento de tinta mas la tinta existente devuelve un valor negativo, establecemos el valor en cero
-                    {
-                        this.tinta = 0;
-                    }
-                    else
-                    {
-                        this.tinta += tinta; //Sumamos ya que vamos a estar recibiendo un valor negativo, de esta manera descontamos.
-                    }
-                }
+                this.tinta = 0;
             }
-        }
+            else
+            {
+                //En el caso de que la operacion no supere los limites permitidos, simplemente sumo
+                this.tinta += tinta;
+            }
+
+
+        }   
 
         //Generamos el metodo recargar
 
@@ -106,7 +94,6 @@ namespace Biblioteca
         {
             string cadenaAux = string.Empty;
             bool returAux = false;
-            short cont = 0;
             if(this.tinta==0)
             {
                 dibujo = "No se puede Pintar ya que no se posee tinta";
@@ -115,15 +102,15 @@ namespace Biblioteca
             {
                 //Generamos un bucle para ir adicionando * a cadena Aux segun el gasto de tinta a realizar
 
-                while (gasto>0 && (this.tinta+cont)>0)
+                while (gasto>0 && this.tinta>0)
                 {
                     cadenaAux += "*";
-                    cont--;
-                    gasto--;
+                    gasto--; //decrementamos el gasto recibido
+                    this.SetTinta(-1); //gastamos tinta
                 }
                 dibujo = cadenaAux;
                 returAux = true;
-                this.SetTinta(cont); //seteamos el nivel de tinta segun el gasto que se realizo
+                
             }
             return returAux;
         }

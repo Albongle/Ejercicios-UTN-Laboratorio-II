@@ -15,20 +15,26 @@ namespace Ejercicio_Numero17
         static void Main(string[] args)
         {
             ConsoleColor colorOriginalDeConsola = Console.ForegroundColor;
-            string dibujo;
-            Boligrafo boligrafoAzul = new Boligrafo(15, ConsoleColor.Blue);
-            Console.ForegroundColor = boligrafoAzul.GetColor();
-            boligrafoAzul.Pintar(10, out dibujo);
+            string dibujo; //Variable para dibujar
+
+
+            Boligrafo boligrafoDarkYellow = new Boligrafo(15, ConsoleColor.DarkYellow);
+            Console.ForegroundColor = boligrafoDarkYellow.GetColor();
+            boligrafoDarkYellow.Pintar(10, out dibujo);
             Console.WriteLine(dibujo);
 
             Console.ForegroundColor = colorOriginalDeConsola;
-            Console.WriteLine($"El nivel de tinta del boligrafo azul es {boligrafoAzul.GetTinta()}");
-            boligrafoAzul.Pintar(5, out dibujo);
+            Console.WriteLine($"El nivel de tinta del boligrafo DarkYellow es {boligrafoDarkYellow.GetTinta()}");
+            boligrafoDarkYellow.Pintar(5, out dibujo);
+            Console.ForegroundColor = boligrafoDarkYellow.GetColor();
+
             Console.WriteLine(dibujo);
             
+            Console.ForegroundColor = colorOriginalDeConsola;
 
-            Console.WriteLine("Intentamos volver a gastar tinta\n\n");
-            boligrafoAzul.Pintar(3, out dibujo);
+            Console.WriteLine($"El nivel de tinta del boligrafo DarkYellow es {boligrafoDarkYellow.GetTinta()}");
+            Console.WriteLine("\n\nIntentamos volver a gastar tinta");
+            boligrafoDarkYellow.Pintar(3, out dibujo);
             Console.WriteLine(dibujo);
             Console.ReadKey();
 
