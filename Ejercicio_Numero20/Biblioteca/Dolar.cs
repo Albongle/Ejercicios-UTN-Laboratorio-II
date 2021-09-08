@@ -78,6 +78,8 @@ namespace Billetes
         }
         public static bool operator == (Dolar d, Euro e)
         {
+           
+        
             return (d.GetCantidad == ((Dolar)e).GetCantidad);
         }
         public static bool operator !=(Dolar d, Euro e)
@@ -94,7 +96,12 @@ namespace Billetes
         }
         public static Dolar operator -(Dolar d, Euro e)
         {
-            return new Dolar((d.GetCantidad - ((Dolar)e).GetCantidad));
+            Dolar retorno;
+            Dolar casteoEuro = (Dolar)e;
+
+            retorno = new Dolar(d.GetCantidad - casteoEuro.GetCantidad);
+
+            return retorno;
         }
         public static Dolar operator -(Dolar d, Peso p)
         {

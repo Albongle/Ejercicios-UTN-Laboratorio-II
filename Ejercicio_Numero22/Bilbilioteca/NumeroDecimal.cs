@@ -33,22 +33,21 @@ namespace Biblioteca
             int resultDiv = (int)numero;
             int restoDiv;
             //Generamos dos variables una para verificar si el resultado de la division es igual a 0 y otra para verificar el resto
-            if (resultDiv >= 0)
+
+            do
             {
-                do
-                {
-                    restoDiv = resultDiv % 2;
-                    resultDiv /= 2;
-                    valorBinario = restoDiv.ToString() + valorBinario; // lo hago de esta manera para ir dejando la ultima division en la primer posicion
-                } while (resultDiv > 0);
-            }
+                restoDiv = resultDiv % 2;
+                resultDiv /= 2;
+                valorBinario = restoDiv.ToString() + valorBinario; // lo hago de esta manera para ir dejando la ultima division en la primer posicion
+            } while (resultDiv > 0);
+
 
             return valorBinario;
         }
 
         //Generamos las sobrecargas
 
-        public static explicit operator NumeroDecimal (double numero)
+        public static explicit operator NumeroDecimal(double numero)
         {
             return new NumeroDecimal(numero);
         }
@@ -56,15 +55,15 @@ namespace Biblioteca
         {
             return (NumeroBinario)numeroDecimal.DecimalBinario(numeroDecimal.Numero);
         }
-        public static bool operator == (NumeroDecimal numeroDecimal, NumeroBinario numeroBinario)
+        public static bool operator ==(NumeroDecimal numeroDecimal, NumeroBinario numeroBinario)
         {
             return numeroDecimal.Numero == ((NumeroDecimal)numeroBinario).Numero;
         }
         public static bool operator !=(NumeroDecimal numeroDecimal, NumeroBinario numeroBinario)
         {
-            return !(numeroDecimal== numeroBinario);
+            return !(numeroDecimal == numeroBinario);
         }
-        public static double operator + (NumeroDecimal numeroDecimal, NumeroBinario numeroBinario)
+        public static double operator +(NumeroDecimal numeroDecimal, NumeroBinario numeroBinario)
         {
             return numeroDecimal.Numero + ((NumeroDecimal)numeroBinario).Numero;
         }

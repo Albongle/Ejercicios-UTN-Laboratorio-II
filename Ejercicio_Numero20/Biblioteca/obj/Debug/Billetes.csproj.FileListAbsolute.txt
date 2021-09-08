@@ -9,3 +9,4 @@ F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero20\Bibliot
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero20\Biblioteca\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero20\Biblioteca\obj\Debug\Billetes.dll
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero20\Biblioteca\obj\Debug\Billetes.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero20\Biblioteca\obj\Debug\Billetes.csproj.AssemblyReference.cache

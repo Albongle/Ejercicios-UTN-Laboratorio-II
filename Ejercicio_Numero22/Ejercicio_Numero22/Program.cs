@@ -42,8 +42,8 @@ Generar el código en el Main para instanciar un objeto de cada tipo y operar en
         {
             //Probamos el codigo
 
-            NumeroBinario numeroBinario = (NumeroBinario)"1111";
-            NumeroDecimal numeroDecimal = (NumeroDecimal)15;
+            NumeroBinario numeroBinario = (NumeroBinario)"0001";
+            NumeroDecimal numeroDecimal = (NumeroDecimal)8;
 
             Console.WriteLine($"El numero binario es {numeroBinario.Numero}, sumado con el decimal da un total de {numeroDecimal + numeroBinario}");
 

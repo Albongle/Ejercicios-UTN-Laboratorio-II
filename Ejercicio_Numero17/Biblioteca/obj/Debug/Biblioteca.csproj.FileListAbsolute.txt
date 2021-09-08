@@ -6,7 +6,6 @@ F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Biblioteca\obj\Debug\Bibliot
 F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Biblioteca\obj\Debug\Biblioteca.pdb
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Biblioteca\bin\Debug\Biblioteca.dll
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Biblioteca\bin\Debug\Biblioteca.pdb
-F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Biblioteca\obj\Debug\Biblioteca.dll
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Biblioteca\obj\Debug\Biblioteca.pdb

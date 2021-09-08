@@ -8,13 +8,13 @@ F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug
 F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.CopyComplete
 F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.exe
 F:\Facultad\Ayudantia\Ejercicios\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.CoreCompileInputs.cache
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Ejercicio_Numero17.exe.config
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Ejercicio_Numero17.exe
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Ejercicio_Numero17.pdb
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Biblioteca.dll
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\bin\Debug\Biblioteca.pdb
-F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.AssemblyReference.cache
-F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.CoreCompileInputs.cache
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.csproj.CopyComplete
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.exe
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero17\Ejercicio_Numero17\obj\Debug\Ejercicio_Numero17.pdb
