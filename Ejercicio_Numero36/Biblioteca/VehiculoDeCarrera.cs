@@ -84,6 +84,8 @@ namespace Biblioteca
             return !(v1==v2);
         }
 
+
+
         //No agregamos Mostrar Datos en la clase Vehiculo de Carrera ya que la solucion a esto se vera mas adelante con Polimorfismo
     }
 }

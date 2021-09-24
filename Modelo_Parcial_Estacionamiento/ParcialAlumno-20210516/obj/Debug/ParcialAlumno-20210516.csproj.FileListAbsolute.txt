@@ -1,0 +1,26 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe.config
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.FrmEstacionamiento.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe.config
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.FrmEstacionamiento.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.pdb

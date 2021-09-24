@@ -14,7 +14,7 @@ namespace Biblioteca
 
         private Competencia()
         {
-            competidores = new List<AutoF1>();
+            this.competidores = new List<AutoF1>();
         }
         public Competencia (short cantidadVueltas, short cantidadCompetidores)
             :this()

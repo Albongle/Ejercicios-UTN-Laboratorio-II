@@ -53,7 +53,11 @@ namespace Biblioteca
         {
             get
             {
-                return this.competidores[i];
+                if(!object.ReferenceEquals(this.competidores,null) && i>=0 && i<= this.competidores.Count) 
+                {
+                    return this.competidores[i];
+                }
+                return null;
             }
         }
         public ETipoCompetencia Tipo
@@ -90,10 +94,7 @@ namespace Biblioteca
                     }
                 }
             }
-            else
-            {
-                returnAux = true;
-            }
+
             //En esta sobre cargar vamos a comparar un AutoF1 con la competencia y determinar si este auto pertenece a la lista de competidores
             return returnAux;
         }

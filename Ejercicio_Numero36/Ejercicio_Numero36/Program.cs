@@ -37,9 +37,10 @@ namespace Ejercicio_Numero36
                 }
             }
 
-            MotoCross motoCross = new MotoCross(5, "Motos");
+            
 
-            if(formulaUno + motoCross)
+            MotoCross motoCross = new MotoCross(5, "Motos");
+            if (formulaUno + motoCross)
             {
                 Console.WriteLine("Se agrego la moto");
             }

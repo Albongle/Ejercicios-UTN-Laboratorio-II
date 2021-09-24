@@ -1,0 +1,12 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.pdb

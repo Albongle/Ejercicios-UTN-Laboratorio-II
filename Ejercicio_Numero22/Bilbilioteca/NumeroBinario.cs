@@ -67,6 +67,7 @@ namespace Biblioteca
 
         public static string operator + (NumeroBinario numeroBinario, NumeroDecimal numeroDecimal)
         {
+
             return numeroDecimal.DecimalBinario(((NumeroDecimal)numeroBinario).Numero + numeroDecimal.Numero);
             //Usamos el metodo Decimal a Binario para convertir la suma de los dos numeros en decimal
         }

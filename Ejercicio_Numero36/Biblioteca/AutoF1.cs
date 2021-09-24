@@ -36,7 +36,7 @@ namespace Biblioteca
 
         public static bool operator ==(AutoF1 a1, AutoF1 a2)
         {
-            return (a1.Escuderia == a2.Escuderia) && (a1.CaballosDeFuerza == a2.CaballosDeFuerza);
+            return (VehiculoDeCarrera)a1 == (VehiculoDeCarrera)a2 && (a1.CaballosDeFuerza == a2.CaballosDeFuerza);
         }
         public static bool operator !=(AutoF1 a1, AutoF1 a2)
         {

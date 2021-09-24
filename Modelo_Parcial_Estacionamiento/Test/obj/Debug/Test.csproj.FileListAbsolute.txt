@@ -1,0 +1,20 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\bin\Debug\Test.exe.config
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\bin\Debug\Test.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\bin\Debug\Test.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\obj\Debug\Test.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\obj\Debug\Test.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Test\obj\Debug\Test.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\bin\Debug\Test.exe.config
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\bin\Debug\Test.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\bin\Debug\Test.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\obj\Debug\Test.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\obj\Debug\Test.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Test\obj\Debug\Test.pdb

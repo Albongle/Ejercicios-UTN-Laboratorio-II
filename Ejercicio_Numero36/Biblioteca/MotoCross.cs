@@ -32,7 +32,7 @@ namespace Biblioteca
         }
         public static bool operator == (MotoCross m1, MotoCross m2)
         {
-            return (m1.Escuderia == m2.Escuderia) && (m1.Numero == m2.Numero) && (m1.Cilindrada == m2.Cilindrada);
+            return (VehiculoDeCarrera)m1 == (VehiculoDeCarrera)m2 && (m1.Cilindrada == m2.Cilindrada);
         }
         public static bool operator !=(MotoCross m1, MotoCross m2)
         {

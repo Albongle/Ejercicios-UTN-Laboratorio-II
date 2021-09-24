@@ -25,7 +25,6 @@ namespace Ejercicio_Numero30
             Random azar = new Random();
             Competencia formulaUno = new Competencia(10, 5);
             AutoF1[] autos = new AutoF1[10];
-
             for (int i = 0; i < autos.Length; i++)
             {
                 autos[i] = new AutoF1((short)i, azar.Next(1, 5).ToString());

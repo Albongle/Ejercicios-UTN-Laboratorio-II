@@ -20,6 +20,7 @@ namespace Biblioteca
             this.escuderia = escuderia;
             this.cantidadCombustible = 0;
             this.vueltasRestantes = 0;
+            this.enCompetencia = false;
         }
         //Generamos los Get Y Set
 
@@ -61,7 +62,7 @@ namespace Biblioteca
 
         public static bool operator ==(AutoF1 a1, AutoF1 a2)
         {
-            return a1.escuderia == a2.escuderia;
+            return a1.escuderia == a2.escuderia && a1.numero == a2.numero;
         }
         public static bool operator !=(AutoF1 a1, AutoF1 a2)
         {

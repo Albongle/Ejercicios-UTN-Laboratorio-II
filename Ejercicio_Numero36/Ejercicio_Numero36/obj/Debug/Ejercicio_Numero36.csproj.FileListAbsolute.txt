@@ -3,8 +3,8 @@ F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercic
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\bin\Debug\Ejercicio_Numero36.pdb
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\bin\Debug\Biblioteca.dll
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\bin\Debug\Biblioteca.pdb
-F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\obj\Debug\Ejercicio_Numero36.csprojAssemblyReference.cache
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\obj\Debug\Ejercicio_Numero36.csproj.CoreCompileInputs.cache
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\obj\Debug\Ejercicio_Numero36.csproj.CopyComplete
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\obj\Debug\Ejercicio_Numero36.exe
 F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\obj\Debug\Ejercicio_Numero36.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejercicio_Numero36\Ejercicio_Numero36\obj\Debug\Ejercicio_Numero36.csproj.AssemblyReference.cache
