@@ -1,0 +1,42 @@
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.deps.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.runtimeconfig.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.runtimeconfig.dev.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\ref\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\ref\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.genruntimeconfig.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.exe
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.deps.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.runtimeconfig.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.runtimeconfig.dev.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\ref\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Ejemplo - TestUnitarios.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\bin\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\ref\Ejemplo - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Ejemplo - TestUnitarios\obj\Debug\net5.0\Ejemplo - TestUnitarios.genruntimeconfig.cache

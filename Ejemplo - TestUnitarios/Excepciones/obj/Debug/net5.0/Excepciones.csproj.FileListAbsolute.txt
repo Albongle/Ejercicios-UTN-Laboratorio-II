@@ -1,0 +1,36 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Clase 07 - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+F:\Facultad\5-Ayudantia\Ejercicios-UTN-Laboratorio-II\Ejemplo - TestUnitarios\Excepciones\obj\Debug\net5.0\Excepciones.pdb

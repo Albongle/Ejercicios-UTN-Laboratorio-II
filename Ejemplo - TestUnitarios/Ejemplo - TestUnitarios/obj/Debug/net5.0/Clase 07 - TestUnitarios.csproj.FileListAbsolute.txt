@@ -1,0 +1,21 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Clase 07 - TestUnitarios.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Clase 07 - TestUnitarios.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Clase 07 - TestUnitarios.runtimeconfig.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Clase 07 - TestUnitarios.runtimeconfig.dev.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Clase 07 - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\ref\Clase 07 - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Clase 07 - TestUnitarios.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Excepciones.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\bin\Debug\net5.0\Excepciones.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\ref\Clase 07 - TestUnitarios.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Clase 07 - TestUnitarios\Clase 07 - TestUnitarios\obj\Debug\net5.0\Clase 07 - TestUnitarios.genruntimeconfig.cache
