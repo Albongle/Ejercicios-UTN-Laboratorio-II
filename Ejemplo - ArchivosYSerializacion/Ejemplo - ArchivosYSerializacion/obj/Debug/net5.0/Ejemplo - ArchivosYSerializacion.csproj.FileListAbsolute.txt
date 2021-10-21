@@ -1,0 +1,18 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Ejemplo - ArchivosYSerializacion.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Ejemplo - ArchivosYSerializacion.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Ejemplo - ArchivosYSerializacion.runtimeconfig.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Ejemplo - ArchivosYSerializacion.runtimeconfig.dev.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Ejemplo - ArchivosYSerializacion.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\ref\Ejemplo - ArchivosYSerializacion.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Ejemplo - ArchivosYSerializacion.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\bin\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\ref\Ejemplo - ArchivosYSerializacion.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - ArchivosYSerializacion\Ejemplo - ArchivosYSerializacion\obj\Debug\net5.0\Ejemplo - ArchivosYSerializacion.genruntimeconfig.cache

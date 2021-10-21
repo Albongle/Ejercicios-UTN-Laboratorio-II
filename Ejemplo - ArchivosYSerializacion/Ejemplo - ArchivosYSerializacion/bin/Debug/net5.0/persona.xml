@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>Jose</Nombre>
+  <Apellido>Perez</Apellido>
+  <Edad>34</Edad>
+</Persona>
