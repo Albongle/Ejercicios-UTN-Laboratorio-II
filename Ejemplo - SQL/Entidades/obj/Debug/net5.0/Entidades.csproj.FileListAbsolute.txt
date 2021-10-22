@@ -1,0 +1,12 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\bin\Debug\net5.0\Entidades.dll.config
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\bin\Debug\net5.0\Entidades.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\bin\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\bin\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\obj\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo - SQL\Entidades\obj\Debug\net5.0\Entidades.pdb
