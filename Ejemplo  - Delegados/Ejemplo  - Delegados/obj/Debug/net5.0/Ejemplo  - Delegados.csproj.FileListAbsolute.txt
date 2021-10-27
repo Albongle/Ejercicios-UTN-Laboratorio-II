@@ -1,0 +1,15 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\bin\Debug\net5.0\Ejemplo  - Delegados.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\bin\Debug\net5.0\Ejemplo  - Delegados.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\bin\Debug\net5.0\Ejemplo  - Delegados.runtimeconfig.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\bin\Debug\net5.0\Ejemplo  - Delegados.runtimeconfig.dev.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\bin\Debug\net5.0\Ejemplo  - Delegados.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\bin\Debug\net5.0\ref\Ejemplo  - Delegados.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\bin\Debug\net5.0\Ejemplo  - Delegados.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\Ejemplo  - Delegados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\Ejemplo  - Delegados.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\Ejemplo  - Delegados.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\Ejemplo  - Delegados.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\Ejemplo  - Delegados.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\ref\Ejemplo  - Delegados.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\Ejemplo  - Delegados.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Ejemplo  - Delegados\Ejemplo  - Delegados\obj\Debug\net5.0\Ejemplo  - Delegados.genruntimeconfig.cache
