@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "373e37af-98f7-4c82-bdba-4fd8f5af79b9": {
+      "ProjectGuid": "373e37af-98f7-4c82-bdba-4fd8f5af79b9",
+      "DisplayName": "Entidades",
+      "ColorIndex": 0
+    },
+    "15bcce0f-846d-4123-8f55-d42ceda34e30": {
+      "ProjectGuid": "15bcce0f-846d-4123-8f55-d42ceda34e30",
+      "DisplayName": "Ejercicio_Numero67",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
